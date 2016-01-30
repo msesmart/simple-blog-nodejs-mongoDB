@@ -13,9 +13,8 @@ This Simple Blog website is developed using Node.js, MongoDB. It is developed ba
 	npm install
 ```
 
-## Configuration
-
-	create configuration file 'config.js'，Here we provide a sample 'config.js.example'. You can modify it according to your needs.
+## Configuration:
+create configuration file 'config.js'，Here we provide a sample 'config.js.example'. You can modify it according to your needs.
 
 ```bash
 	cp config.js.example config.js
